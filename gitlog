@@ -1,0 +1,42 @@
+commit e28974989440bd0da454088b6f575d05046b5c8e
+Author: John Zealand-Doyle <s3319550@student.rmit.edu.au>
+Date:   Tue Nov 12 07:57:37 2019 -0800
+
+    4th Commit - B4 functionality met, need to work on it
+
+commit 60989712f22bbc570c1b5e5ec4ee9e34894914cb
+Author: John Zealand-Doyle <s3319550@student.rmit.edu.au>
+Date:   Tue Nov 12 04:41:02 2019 -0800
+
+    3rd Commit - B5 Menu design implmented
+
+commit e3bb069b501878e3ee4becc313989460f73f3ac6
+Author: John Zealand-Doyle <s3319550@student.rmit.edu.au>
+Date:   Mon Nov 11 10:27:55 2019 -0800
+
+    2nd Commit - B2 finished but needs some work
+
+commit 7af4660b5c20a3bd72012701a81994a0a7abe95b
+Merge: 295a671 9eb50f8
+Author: s3319550 <s3319550@student.rmit.edu.au>
+Date:   Mon Nov 11 06:57:21 2019 -0800
+
+    Merge https://github.com/johnzdpatron/UNIX_A2_s3319550
+
+commit 295a67155147c8b48045ad7b0aa4df9621ee483f
+Author: s3319550 <s3319550@student.rmit.edu.au>
+Date:   Mon Nov 11 06:55:07 2019 -0800
+
+    Initial commit - B1 already complete
+
+commit 20e8cca4f317706a73dd693fd8df70ce3cff5c55
+Author: s3319550 <s3319550@student.rmit.edu.au>
+Date:   Mon Nov 11 06:44:29 2019 -0800
+
+    Initial commit - B1 already complete
+
+commit 9eb50f85be5d739bb7547e7878b25cd5666f38fc
+Author: johnzdpatron <johnzealanddoyle@gmail.com>
+Date:   Mon Nov 11 23:41:46 2019 +0900
+
+    Initial commit
